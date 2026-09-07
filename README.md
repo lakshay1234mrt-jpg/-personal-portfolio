@@ -6,11 +6,10 @@ A responsive personal portfolio website built using HTML and CSS to showcase my 
 
 - Responsive design
 - Clean and modern UI
-- About section
+- About Me section
 - Skills section
-- Projects showcase
-- Contact section
-- Mobile-friendly layout
+- Projects section
+- Contact information
 
 ## 🛠️ Technologies Used
 
